@@ -1,0 +1,12 @@
+.card {
+background-color: red;
+width: 300px;
+border-radius: 15px;
+padding: 20px;
+}
+.card h3 {
+color: white;
+}
+.card p {
+    color: white;
+}
