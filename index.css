@@ -20,3 +20,31 @@ font-weight: bold;
 #fontsize {
     font-size: 50px;
 }
+.tamanho1 {
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+}
+.tamanho2 {
+    height: 50px;
+    width: 50px;
+background-color: pink;
+}
+.tamanho3 {
+    height: 25px;
+    width: 25px;
+}
+.cupom1 {
+    border: solid;
+}
+.cupom2 {
+    border: solid 10px red;
+}
+.cupom3 {
+    border: solid 10px red;
+    border-radius: 20px;
+}
+.aviao {
+    border: solid 8px black;
+    border-radius: 100px;
+}
