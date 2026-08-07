@@ -1,4 +1,4 @@
-h1 {
+.titulo {
     color: red;
 }
 .button1 {
@@ -47,4 +47,12 @@ background-color: pink;
 .aviao {
     border: solid 8px black;
     border-radius: 100px;
+}
+.padding {
+    border: solid gold 50px;
+    padding: 20px 40px 80px 100px;
+}
+#centralizar {
+    border: solid;
+    text-align: center;
 }
