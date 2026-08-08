@@ -20,6 +20,10 @@ font-weight: bold;
 #fontsize {
     font-size: 50px;
 }
+.terra {
+    width: 300px;
+    height: 300px;
+}
 .tamanho1 {
     height: 100px;
     width: 100px;
@@ -47,6 +51,7 @@ background-color: pink;
 .aviao {
     border: solid 8px black;
     border-radius: 100px;
+    margin: 100px 10px 10px 400px;
 }
 .padding {
     border: solid gold 50px;
